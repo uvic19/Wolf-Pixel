@@ -14,7 +14,7 @@ The "Wolf Pixel" website is structured with several pages and sections, includin
 
 ## Demo
 
-- [Live Demo Link](#) (Add your deployed link here if available)
+- [Live Demo Link](https://uvic19.github.io/Wolf-Pixel/)
 
 ## Tech Stack
 
